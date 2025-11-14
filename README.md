@@ -1,4 +1,11 @@
-# hello-world
-This repository is for practicing the GitHub Flow
 
-My name is Sri Ram and I am currently pursuing my master's at SLU in the field of Computer Science.
+  # Talbox
+
+  This is a code bundle for Talbox. The original project is available at https://www.figma.com/design/oXHvRVvfnqbTKyOrUAjQ1Z/Talbox.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
